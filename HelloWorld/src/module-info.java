@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author scarlato
+ *
+ */
+module HelloWorld {
+}
